@@ -41,7 +41,7 @@ Boss 第二阶段会冲撞，看到地上的红线就**跳起来**。
 ## 目录结构
 
 ```
-meme-shooter/
+Game/
   index.html          页面和 canvas
   style.css           外壳样式（居中、黑底、16:9 等比缩放）
   game.js             主循环、状态机、碰撞、画面切换
